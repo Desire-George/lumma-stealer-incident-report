@@ -25,7 +25,7 @@ Using Wireshark, I isolated the web traffic with the following display filter:
   * `holiday-forever[.]cc`
   * `communicationfirewall-security[.]cc`
 
-<img width="3198" height="1401" alt="image" src="https://github.com/user-attachments/assets/4646792d-4edc-448a-8b62-cb4039e05290" />
+<img width="3197" height="1400" alt="image" src="https://github.com/user-attachments/assets/0b754daa-7e37-48e6-a227-a0068825b726" />
 
 ### Victim Profiling
 I pivoted to internal traffic to identify the scope of the threat and pinpoint the compromised identity.
